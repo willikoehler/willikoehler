@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This page is currently under construction to provide you with detailed information about me and my projects. Stay tuned for updates.
+
 <!--
 **willikoehler/willikoehler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
